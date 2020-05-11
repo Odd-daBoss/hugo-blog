@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>time on Hugo Blog</title>
+    <link>https://odd-daboss.github.io/hugo-blog/tags/time/</link>
+    <description>Recent content in time on Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 May 2020 18:09:15 +0700</lastBuildDate>
+    
+	<atom:link href="https://odd-daboss.github.io/hugo-blog/tags/time/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>That It Will Never Come Again by Emily Dickinson</title>
+      <link>https://odd-daboss.github.io/hugo-blog/that-it-will-never-come-again-by-emily-dickinson/</link>
+      <pubDate>Mon, 11 May 2020 18:09:15 +0700</pubDate>
+      
+      <guid>https://odd-daboss.github.io/hugo-blog/that-it-will-never-come-again-by-emily-dickinson/</guid>
+      <description>That it will never come again
+Is what makes life so sweet.
+Believing what we don’t believe
+Does not exhilarate.
+That if it be, it be at best
+An ablative estate &amp;ndash;
+This instigates an appetite
+Precisely opposite.</description>
+    </item>
+    
+  </channel>
+</rss>
